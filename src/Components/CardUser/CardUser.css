@@ -1,0 +1,23 @@
+.ButtonSize
+{
+    font-size: 30px;
+}
+.Buttons
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.red
+{
+    color:red;
+}
+.green
+{
+    color: rgb(41, 175, 41);
+}
+.yellow
+{
+    color: rgb(158, 158, 24);
+    font-size: 28px;
+}
